@@ -9,6 +9,8 @@ from skimage.segmentation import mark_boundaries
 from skimage.util import img_as_float
 
 
+
+
 def segmentation(img):
     segments_quick = quickshift(img, kernel_size=25, max_dist=50, ratio=0.5)
 
