@@ -52,8 +52,6 @@ def segmentation(img):
         for grain2 in listGrains:
             if (grain1[0] == grain2[0] and grain1[1] == grain2[1] and grain1[2] == grain2[2]):
                 listGrains.remove(grain2)
-    
-
     print(len(listGrains))
 
     stringGrains = "Grains \n"
