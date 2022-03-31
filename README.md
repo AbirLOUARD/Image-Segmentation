@@ -30,5 +30,5 @@ Python 3.7
 In your Terminal
 
 ```
-https://github.com/AbirLOUARD/Segmentation-images.git
+git clone https://github.com/AbirLOUARD/Segmentation-images.git
 ```
