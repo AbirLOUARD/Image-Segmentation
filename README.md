@@ -1,4 +1,4 @@
-# Segmentation-images
+# Image Segmentation
 
 
 ## Table of contents
@@ -30,5 +30,5 @@ Python 3.7
 In your Terminal
 
 ```
-git clone https://github.com/AbirLOUARD/Segmentation-images.git
+git clone https://github.com/AbirLOUARD/Image-Segmentation.git
 ```
